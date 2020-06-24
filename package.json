@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic tac toe maked for data structure",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoBuhler/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoBuhler/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/yoBuhler/tic-tac-toe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
